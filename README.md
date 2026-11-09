@@ -1,0 +1,1 @@
+Short HTML project in the curricula of the Odin-project.
